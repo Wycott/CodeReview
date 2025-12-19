@@ -43,6 +43,8 @@ N.B. modern code quality tools now take care of some of these, but the general p
 | Are there comments that describe complex code that should be refactored  | Comments     | ✅ / ❌  |
 | Are there comments that will require maintenance for simple code changes | Comments     | ✅ / ❌  |
 
+**To keep things simple, I’ve marked only one category per check, even though several could apply in practice.**
+
 ---
 
 *Created: 19 December 2025*  
