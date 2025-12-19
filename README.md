@@ -2,7 +2,7 @@
 
 A repository of documentation for assisting with code reviews.
 
-[CODE_REVIEW_CHECKLIST.md](Code Review Checklist)
+[Code Review Checklist](CODE_REVIEW_CHECKLIST.md)
 
 ---
 
