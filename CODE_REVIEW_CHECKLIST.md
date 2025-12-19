@@ -2,7 +2,7 @@
 
 ## About
 
-This checklist hopes to provide a basic quality check that can be applied to most code reviews.
+This checklist hopes to provide a basic quality gate that can be applied to most code reviews.
 
 Once you've reviewed the same code a number of times, it can be tempting just to check for a few basic issues and waive code through, but it is incumbent on the reviewer to catch all issues as early as possible.
 
