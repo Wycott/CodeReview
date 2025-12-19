@@ -4,9 +4,9 @@
 
 This checklist hopes to provide a basic quality check that can be applied to most code reviews.
 
-Once you've reviewed the same code a number of times, it can be tempting just to check for basic issues but it is incumbent on the reviewer to catch issues early.
+Once you've reviewed the same code a number of times, it can be tempting just to check for basic issues and waive code through, but it is incumbent on the reviewer to catch issues early.
 
-Accordingly, I'd advise that reviewers review all code with the same rigour whether it purports to be throw away code or changes to production code.
+Accordingly, I'd advise that all code is reviewed with the same rigour whether it purports to be throw away code or changes to production code.
 
 > Todays quick fix is tomorrows technical debt.
 
@@ -14,7 +14,7 @@ Accordingly, I'd advise that reviewers review all code with the same rigour whet
 
 While I would hope there is some value here for any language, it is primarily designed with OO languages in mind.
 
-N.B. modern code quality tools now take care of many of these, but the principles still stand.
+N.B. modern code quality tools now take care of some of these, but the general principles still stand.
 
 ## Checklist
 
