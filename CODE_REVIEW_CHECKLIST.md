@@ -2,19 +2,19 @@
 
 ## About
 
-For various reasons, basic standards around code reviews haven't always been in place in the various places I've worked.
+This checklist hopes to provide a basic quality check that can be applied to most code reviews.
 
-So this document aims to change that and I've taken it from place to place since I started it circa 2010.
+Once you've reviewed the same code a number of times, it can be tempting just to check for basic issues but it is incumbent on the reviewer to catch issues early.
 
-As well as being freely available to any of my colleagues, it is also there to keep me honest when I am short on time.
+Accordingly, I'd advise that reviewers review all code with the same rigour whether it purports to be throw away code or changes to production code.
 
-It is all to easy to waive through some code when you've seen it for about the tenth time. But experience tells me that even minor issues can get left under the pressure of delivery.
+> Todays quick fix is tomorrows technical debt.
 
 ## Limitations
 
-While I would hope there is value here for any language it is primarily designed with OO languages in mind.
+While I would hope there is some value here for any language, it is primarily designed with OO languages in mind.
 
-Some of the items in the checklist are taken care of by various quality tools but I've resisted the urge to remove these as the principals still stand. And also, these may not be available for all languages.
+N.B. modern code quality tools now take care of many of these, but the principles still stand.
 
 ## Checklist
 
